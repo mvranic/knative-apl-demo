@@ -9,7 +9,7 @@ The examle for APL can be fund at extened knative doc branch forked at:
 git clone https://github.com/mvranic/knative-docs.git
 ```
 
-## APL Helloe world example
+## APL Hello world example
 The hello world example can be found at:
 https://github.com/mvranic/knative-docs/tree/apl-runtime/serving/samples/helloworld-apl
 
