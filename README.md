@@ -11,7 +11,7 @@ git clone https://github.com/mvranic/knative-docs.git
 
 ## APL Hello world example
 The hello world example can be found at:
-https://github.com/mvranic/knative-docs/tree/apl-runtime/serving/samples/helloworld-apl
+https://github.com/mvranic/knative-docs/tree/master/serving/samples/helloworld-apl
 
 In order to use it look the radme page at the example.
 
